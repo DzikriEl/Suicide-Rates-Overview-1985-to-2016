@@ -16,7 +16,32 @@ Country-year,
 HDI for year,
 GDP_for_year,
 GDP_per_capita,
-Generation,
+Generation.
+
+
+**Data Exploration**
+
+1. Data wrangling: Mengubah atau transformasi data yang mentah kedalam format yang lebih rapi.
+
+
+2. Agregation Data : Menemukan informasi.
+
+
+3. Handling Missing Value : Memeriksa apakah dataset kita terdapat Missing Value atau tidak.
+
+
+4. Training Data : Dengan Berbagai Macam
+Algoritma Machine Learning.
+
+
+5. Visualisasi Data
+
+
+
+
+
+
+
 
 
 
