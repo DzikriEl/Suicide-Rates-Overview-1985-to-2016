@@ -38,6 +38,13 @@ Algoritma Machine Learning.
 
 
 
+Simpulan :
+
+
+Setelah dilakukan Explorasi data analisis kita dapat mengetahui bahwa dataset SUICIDE RATES OVERVIEW 1985 TO 2016 terdapat missing value. Kita juga dapat mengetahui jumlah bunuh diri di setiap negara, jumlah bunuh diri dilihat dari usia dan generasi apa saja yang dapat melakukan bunuh diri.
+
+
+
 
 
 
